@@ -1,2 +1,6 @@
 
 /* Your CSS Code here. */
+li{
+	display:inline;
+	margin:10px;
+}
